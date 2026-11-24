@@ -557,7 +557,7 @@ numpy==2.4.1
     #   shapely
     #   unstructured
     #   voyageai
-oauthlib==3.2.2
+oauthlib==4.0.1
     # via
     #   atlassian-python-api
     #   kubernetes
