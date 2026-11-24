@@ -226,7 +226,7 @@ distro==1.9.0
     # via
     #   openai
     #   zulip
-dnspython==2.8.0
+dnspython==2.9.2
     # via email-validator
 docstring-parser==0.17.0
     # via cyclopts
